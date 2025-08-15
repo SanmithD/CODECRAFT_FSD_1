@@ -5,6 +5,9 @@ It includes an **admin dashboard** with dummy product data and an **items page**
 
 ---
 
+# Live 
+https://codecraft-fsd-1.vercel.app
+
 ## 🚀 Tech Stack
 - **MongoDB** – NoSQL database for user and product data.
 - **Express.js** – Backend server framework.
@@ -48,7 +51,7 @@ It includes an **admin dashboard** with dummy product data and an **items page**
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/SanmithD/CODECRAFT_FSD_1.git
 
 # Backend Setup
 cd backend
